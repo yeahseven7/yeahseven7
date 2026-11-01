@@ -26,7 +26,7 @@ writing a web browser from scratch in rust.
 
 ## contact
 
-- email: [you@example.com](mailto:you@example.com)
+- email: [mayohcore@gmail.com](mailto:mayohcore@gmail.com)
 - github: [@yeahseven7](https://github.com/yeahseven7) — open an issue or discussion on any repo; i read them.
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=110&section=footer)
